@@ -13,7 +13,7 @@
 ## 🛠️ Technologies que j’utilise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,flask,git,github,linux,mysql,vscode,js,html" />
+  <img src="https://skillicons.dev/icons?i=python,c,flask,git,github,linux,mysql,vscode,js,html,css" />
 </p>
 
 ---
