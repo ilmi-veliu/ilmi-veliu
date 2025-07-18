@@ -22,11 +22,10 @@
 
 | 📌 Projet | 📋 Détails |
 |----------|-----------|
-| [`my_shell`](https://github.com/ilmi-veliu/my_shell) | Mini-shell Unix en C |
-| [`hbnb-v2`](https://github.com/ilmi-veliu/hbnb-v2) | API RESTful avec Flask, SQLAlchemy & JWT |
-| [`clone_printf`](https://github.com/ilmi-veliu/clone_printf) | Recode de la fonction `printf()` |
-| [`Python modules`](https://github.com/ilmi-veliu/python-modules) | Modules Python : JSON, API, classes, etc. |
-| [`low_level_c`](https://github.com/ilmi-veliu/low_level_c) | Projets C bas niveau (malloc, struct, pointeurs) |
+| [`simple_shell`](https://github.com/Beydi-dev/holbertonschool-simple_shell) | Mini-shell Unix en C (`fork`, `execve`, `getline`) |
+| [`hbnb-v2`](https://github.com/tmlgde/HBnB-part2) | API RESTful avec Flask, SQLAlchemy et JWT |
+| [`holbertonschool-printf`](https://github.com/ilmi-veliu/holbertonschool-printf) | Recode complet de la fonction `printf()` en C |
+| [`holbertonschool-web_front_end`](https://github.com/ilmi-veliu/holbertonschool-web_front_end) | HTML, CSS, responsive et accessibilité |
 
 ---
 
@@ -41,7 +40,6 @@
 
 ## 📬 Me retrouver ici
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmi%20Veliu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ilmi-veliu)  
 [![GitHub](https://img.shields.io/badge/GitHub-ilmi--veliu-black?style=flat-square&logo=github)](https://github.com/ilmi-veliu)
 
 ---
